@@ -24,4 +24,4 @@
 <li>3. Запустить <kbd>sh /opt/etc/pppwn_ctl web_start</kbd>, будет доступен локально например 192.168.1.1:9590</li>
 <li>4. Начать с пункта 2 обычного запуска.</li>
 </ul>
-<p>Список команд <kbd>sh /opt/etc/pppwn_ctl help</kbd></p>
+<p>Список команд <kbd>sh /opt/etc/pppwn_ctl help</kbd>. База start | stop | status .</p>
