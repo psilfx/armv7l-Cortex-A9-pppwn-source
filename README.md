@@ -1,5 +1,5 @@
 <h1>PPPwn под armv7l.</h1>
-
+<p>Протестировано на FreshTomato</p>
 <p>file: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, with debug_info, not stripped</p>
 
 <h2>Проверен и работает на Netgear r7000 Nighthawk.</h2>
